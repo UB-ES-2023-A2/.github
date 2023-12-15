@@ -2,7 +2,7 @@
 
 FARM stack Website (FastAPI, React and MongoDB)
 
-https://happy-cliff-060e0fc03.4.azurestaticapps.net/
+https://kasula.live
 
 <!--
 

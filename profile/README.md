@@ -1,11 +1,12 @@
 ## Kasulà
 
-Recipes website
+[Recipes website](https://kasula.live)
+
+Using FARM stack (FastAPI, React and MongoDB)
 
 <!--
-https://kasula.live
 
-FARM stack Website (FastAPI, React and MongoDB)
+
 
 **Here are some ideas to get you started:**
 

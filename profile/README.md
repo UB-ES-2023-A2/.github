@@ -1,6 +1,6 @@
 ## Kasulà
 
-FARM stack Website (FastAPI, React and MongoDB)
+<!--FARM stack Website (FastAPI, React and MongoDB)-->
 
 https://kasula.live
 

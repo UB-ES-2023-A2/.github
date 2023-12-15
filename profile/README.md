@@ -1,10 +1,11 @@
 ## Kasulà
 
-<!--FARM stack Website (FastAPI, React and MongoDB)-->
+FARM stack Website (FastAPI, React and MongoDB)
 
-https://kasula.live
+
 
 <!--
+https://kasula.live
 
 **Here are some ideas to get you started:**
 

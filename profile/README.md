@@ -1,6 +1,6 @@
 ## Kasulà
 
-[Recipes website](https://kasula.live)
+Recipes website deployed on https://kasula.live
 
 Using FARM stack (FastAPI, React and MongoDB)
 
